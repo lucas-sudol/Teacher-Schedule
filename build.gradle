@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+
+}
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
+
+repositories {
+    mavenCentral()
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'ui.TextUI'
+    }
+    archiveBaseName ='kakuro'
+}
+
