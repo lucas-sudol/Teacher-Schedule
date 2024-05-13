@@ -49,3 +49,11 @@ Rapper			1	1	0	1
 Rodds			1	1	0	1	
 Roggieri		1	1	0	1 			
 Romero			1	1	0	1			
+Sahara			1	0	1	1			
+Samuel			0	1	1	1			
+Tanish			1	1	1	0			
+Umbro			1	1	0	1			
+
+
+
+
